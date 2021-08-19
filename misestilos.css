@@ -1,0 +1,61 @@
+
+.container-fluid{
+display: flex;
+background-color: Lavender;
+}
+.rounded{
+width: 25%;
+height: 10%;
+margin-left: 1px;
+}
+
+.titulo{
+    font-size: 60px;
+    margin-top: 7%;
+    margin-left: 5%;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+}
+.col{
+text-align: center;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 29px;
+}
+
+.container{
+margin-top: 15px;
+}
+
+.img-cerv{
+width: 15%;
+}
+.img-cerve{
+width: 10%;
+}
+#roja{
+    position: relative;
+    display: block;
+    padding: .5rem 1rem;
+    color: #212529;
+    text-decoration: none;
+    font-weight: normal;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    font-size: 37%;
+    display: list-item;
+}
+.description{
+    font-family: 'Roboto Condensed';
+}
+
+.list-group-item{
+    font-family: 'Roboto Condensed';
+    font-size: 22px;  
+}
+.accordion-button{
+    font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 20px;
+font-weight: bold
+}
